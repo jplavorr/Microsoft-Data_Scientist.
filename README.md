@@ -22,7 +22,7 @@ Learn new skills and discover the power of Microsoft products with step-by-step 
 * **Examine real world data:** https://bit.ly/3OlP38W
 * **Train and evaluate a regression model:** https://bit.ly/3a0uboY
 * **Experiment with more powerful regression models:** https://bit.ly/3QW4SFg
-
+* **Optimize and save models:** 
 
 ---
 

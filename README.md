@@ -17,12 +17,13 @@ Learn new skills and discover the power of Microsoft products with step-by-step 
 * [Medium](https://jplavorr.medium.com/)
 
 
-## Projects:
+## Projects (Week 1):
 
 * **Examine real world data:** https://bit.ly/3OlP38W
 * **Train and evaluate a regression model:** https://bit.ly/3a0uboY
 * **Experiment with more powerful regression models:** https://bit.ly/3QW4SFg
-* **Optimize and save models:** 
+* **Optimize and save models:** https://bit.ly/3NqyMhF
 
 ---
 
+## Projects (Week 2):

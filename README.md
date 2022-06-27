@@ -17,7 +17,7 @@ Learn new skills and discover the power of Microsoft products with step-by-step 
 
 ## Projects:
 
-* **Examine real world data: ** 
+* **Examine real world data:** 
 
 
 

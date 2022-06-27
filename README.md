@@ -6,7 +6,7 @@ Learn new skills and discover the power of Microsoft products with step-by-step 
 
 
 <p align="center">
-  <img src= "" >
+  <img src= "microsoft.webp" >
 </p>
 
 
@@ -21,7 +21,7 @@ Learn new skills and discover the power of Microsoft products with step-by-step 
 
 * **Examine real world data:** https://bit.ly/3OlP38W
 
-* **Train and evaluate a regression model:** 
+* **Train and evaluate a regression model:** https://bit.ly/3a0uboY
 
 
 

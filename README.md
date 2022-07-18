@@ -27,3 +27,5 @@ Learn new skills and discover the power of Microsoft products with step-by-step 
 ---
 
 ## Projects (Week 2):
+* **Train and evaluate a classification model:** https://bit.ly/3PjSMEo
+

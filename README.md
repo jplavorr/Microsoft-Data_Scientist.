@@ -30,5 +30,8 @@ Learn new skills and discover the power of Microsoft products with step-by-step 
 * **Train and evaluate a classification model:** https://bit.ly/3PjSMEo
 * **Perform classification with alternative metrics:** https://bit.ly/3aNpPSg
 * **Train and evaluate multiclass classification models:** https://bit.ly/3zd3Iht
+* **Train and evaluate a clustering model:** https://bit.ly/3Og9Cmk
+* **Train and evaluate advanced clustering models:** https://bit.ly/3cm4MGW
+
 
 
